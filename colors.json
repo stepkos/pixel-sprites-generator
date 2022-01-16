@@ -1,5 +1,26 @@
 {
     "faces": {
-        "#FFFFFFFF": ["#FFE0BCFF", "#FBCEB5FF", "#FBE7B5FF"]
+        "#FFFFFFFF": [
+            "#FFE0BCFF",
+            "#FBCEB5FF",
+            "#FEAC92FF",
+            "#FB9F82FF",
+            "#FF756BFF",
+            "#BEF761FF",
+            "#782FEFFF"
+        ]
+    },
+
+    "hair": {
+        "#202020FF" : [
+            "#23120BFF",
+            "#371D10FF",
+            "#65350FFF",
+            "#964B00FF",
+            "#808285FF",
+            "#231F20FF",
+            "#FF0000FF"
+        ]
     }
+    
 }
