@@ -14,6 +14,7 @@ class SpriteGenerator:
     def __init__(self, bg: int, templates: Iterable, colors: Iterable):
         self.img = SpriteGenerator.mix_template(bg, *templates)
         self.img = SpriteGenerator.apply_colors(self.img, *colors)
+        self.img = self.img.resize((240, 240), Image.NEAREST)
 
 
     @classmethod
