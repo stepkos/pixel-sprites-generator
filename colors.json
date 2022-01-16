@@ -1,9 +1,6 @@
 {
     "faces": {
         "#FFFFFFFF": [
-            "#FFE0BCFF",
-            "#FBCEB5FF",
-            "#FEAC92FF",
             "#FB9F82FF",
             "#FF756BFF",
             "#BEF761FF",
@@ -16,10 +13,16 @@
             "#23120BFF",
             "#371D10FF",
             "#65350FFF",
-            "#964B00FF",
-            "#808285FF",
             "#231F20FF",
             "#FF0000FF"
+        ]
+    },
+
+    "eyes": {
+        "#787878FF": [
+            "#000000FF",
+            "#00DC7DFF",
+            "#7AB1FFFF"
         ]
     }
     
