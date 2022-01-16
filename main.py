@@ -1,6 +1,8 @@
 from src.spriteGenerator import SpriteGenerator
 import random
-# background face, hair    face_color, hair_color
+
+# c - color
+# SpriteGenerator(bg, (f, h, e), (fc, hc, ec))
 
 
 for _ in range(10):
