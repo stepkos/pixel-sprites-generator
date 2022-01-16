@@ -9,8 +9,8 @@ for _ in range(10):
     bg = random.randint(0, 3)
 
     f = random.randint(0, 1)
-    h = random.randint(0, 4)
-    e = random.randint(0, 2)
+    h = random.randint(0, 6)
+    e = random.randint(0, 5)
 
     fc = random.randint(0, 3)
     hc = random.randint(0, 3)

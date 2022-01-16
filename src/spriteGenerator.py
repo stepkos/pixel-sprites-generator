@@ -60,5 +60,8 @@ class SpriteGenerator:
 
                 elif color in colors["eyes"]:
                     img.putpixel((x, y), color_to_dec(colors["eyes"][color][eyes]))
+                
+                elif color != '#FFFFFFFF':
+                    img.putpixel((x, y), color_to_dec(color))
 
         return img
